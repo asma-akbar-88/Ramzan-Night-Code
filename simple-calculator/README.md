@@ -10,11 +10,6 @@ A simple command-line calculator built with TypeScript and Inquirer.
 - Division
 - Repeat calculations until you choose to stop
 
-## Installation
-
-```bash
-npm install
-```
 
 ## Usage
 
@@ -26,15 +21,6 @@ npx asma-678-simple-calculator
 
 Or after installation:
 
-```bash
-npm start
-```
-
-or directly:
-
-```bash
-node index.js
-```
 
 Then follow the prompts:
 
@@ -53,16 +39,6 @@ Select one of the operators to perform operation: Addition
 Your answer is: 15 🎉
 Do you want to calculate again? (y/N)
 ```
-
-## Technologies
-
-- TypeScript
-- Node.js
-- [Inquirer](https://www.npmjs.com/package/inquirer)
-
-## License
-
-MIT
 
 ## Author
 
