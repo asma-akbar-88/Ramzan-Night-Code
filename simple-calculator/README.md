@@ -41,8 +41,7 @@ Do you want to calculate again? (y/N)
 ```
 
 ## Author
-
-Asma-Akbar
+Made with 💛 by **Asma-Akbar**
 
 ---
 
