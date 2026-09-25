@@ -1,0 +1,15 @@
+{
+  "name": "asma-678-number-gassing-game",
+  "version": "1.0.0",
+  "description": "This is a cli based number gussing game",
+  "license": "MIT",
+  "author": "Asma-Akbar",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^14.2.2"
+  }
+}
