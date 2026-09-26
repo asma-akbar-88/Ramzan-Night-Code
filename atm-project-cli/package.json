@@ -1,0 +1,15 @@
+{
+  "name": "asma-678-atm-project-cli",
+  "version": "1.0.0",
+  "description": "This is a only cli-atm-project ",
+  "license": "MIT",
+  "author": "Asma-Akbar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^14.2.2"
+  }
+}
