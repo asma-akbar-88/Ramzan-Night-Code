@@ -13,7 +13,7 @@ Ek simple CLI game jisme computer ek secret number sochta hai (1-10) aur aap ko 
 Kisi bhi CLI (terminal) par ye command chala kar game turant kheli ja sakti hai:
 
 ```bash
-npx number-gassing-game
+npx asma-678-numbr-gassing-game
 ```
 
 
