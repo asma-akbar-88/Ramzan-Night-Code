@@ -13,6 +13,8 @@ A simple ATM machine simulator that runs in the terminal using TypeScript and In
 
 ## Run with npx (anywhere on your laptop)
 
+You can see and run my project on your CLI with this command:
+
 ```bash
 npx asma-678-atm-project-cli
 ```
