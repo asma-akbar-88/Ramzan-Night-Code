@@ -10,7 +10,7 @@ Ek simple CLI game jisme computer ek secret number sochta hai (1-10) aur aap ko 
 
 ## 🚀 Run Karne Ka Tarika
 
-Kisi bhi CLI (terminal) par ye command chala kar game turant kheli ja sakti hai:
+You can see and run my project on your CLI with this command:
 
 ```bash
 npx asma-678-numbr-gassing-game
