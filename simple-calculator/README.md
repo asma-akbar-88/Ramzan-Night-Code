@@ -10,10 +10,9 @@ A simple command-line calculator built with TypeScript and Inquirer.
 - Division
 - Repeat calculations until you choose to stop
 
+## Run with npx
 
-## Usage
-
-Run the calculator directly without installing, using npx:
+You can see and run my project on your CLI with this command:
 
 ```bash
 npx asma-678-simple-calculator
@@ -38,12 +37,7 @@ Enter your Second number: 5
 Select one of the operators to perform operation: Addition
 Your answer is: 15 🎉
 Do you want to calculate again? (y/N)
-```
 
-## Author
-Made with 💛 by **Asma-Akbar**
-
----
 
 # npm Publish Setup
 
@@ -64,3 +58,11 @@ npm config set //registry.npmjs.org/:_authToken=YOUR_TOKEN
 
 npm publish
 ```
+
+
+```
+
+## Author
+Made with 💛 by **Asma-Akbar**
+
+---
